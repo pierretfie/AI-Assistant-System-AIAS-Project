@@ -22,7 +22,7 @@ To build a community of AIAS systems with a degree of awareness and independence
 * Control embedded systems such as lights and other IoT devices  
 
 # Working Environment
-The current version of AIAS uses **n8n workflows** to coordinate and perform these tasks.  
+The current version of AIAS uses **n8n workflows** and a **Linux** host acting as server to coordinate and perform these tasks.  
 
 <img width="1221" height="352" alt="image" src="https://github.com/user-attachments/assets/02c198ca-4dd2-4621-922c-52cbe5417daf" />  
 
